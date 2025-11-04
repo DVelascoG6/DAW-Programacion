@@ -15,7 +15,7 @@ public class Ejer1Strings {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Dime una palabra");
+        System.out.println("Dime la palabra mas bonita:");
         String nombre = entrada.nextLine();
 
         for (int i = 0; i < nombre.length(); i++) {
