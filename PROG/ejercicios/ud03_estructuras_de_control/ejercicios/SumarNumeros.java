@@ -1,4 +1,4 @@
-package ejercicios.ud03_estructuras_de_control.ejercicios;
+package PROG.ejercicios.ud03_estructuras_de_control.ejercicios;
 /**
  * 
  * Crea un método que obtenga la suma de los números naturales desde 1 hasta N.

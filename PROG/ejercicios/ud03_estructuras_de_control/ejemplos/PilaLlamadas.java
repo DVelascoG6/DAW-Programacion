@@ -1,4 +1,4 @@
-package ejercicios.ud03_estructuras_de_control.ejemplos;
+package PROG.ejercicios.ud03_estructuras_de_control.ejemplos;
 /**
  * Pila de llamadas vista en el vídeo 8 del tema 3 del curso de programación en JAVA
  */

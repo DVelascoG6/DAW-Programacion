@@ -1,4 +1,4 @@
-package ejercicios.ud03_estructuras_de_control.ejemplos;
+package PROG.ejercicios.ud03_estructuras_de_control.ejemplos;
 
 public class Factorial {
    

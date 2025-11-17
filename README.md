@@ -1,4 +1,4 @@
-# DAW-Programación 
+# DAW/Programación 
 
 En este repositorio vamos a desarrollar los contenidos del módulo de Programación de 1º del Ciclo Formativo Superior Desarrollo de Aplicaciones Web del IES María Moliner de Segovia. Para ello, vamos a utilizar JAVA.
 

@@ -1,4 +1,4 @@
-package ejercicios.ud03_estructuras_de_control.ejercicios;
+package PROG.ejercicios.ud03_estructuras_de_control.ejercicios;
 
 public class ConversorBinario {
    
